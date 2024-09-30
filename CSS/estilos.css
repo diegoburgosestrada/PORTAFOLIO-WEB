@@ -1,0 +1,94 @@
+/*Aqui son los estilos de todo el area de trabajo*/
+
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    background-color: ;
+
+}
+
+/*Estos son los estilos de la foto de perfil*/
+#perfil img{
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    margin: 20px;
+}
+
+/*Estos son los estilos de Bienvenidos a mi portafolio*/
+h1{
+    background-color: #007bff;
+}
+
+/*Estos son los estilos del header*/
+header{
+    background-color: #007bff;
+    color: azure;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;    
+}
+
+
+/*Estos son los estilos del sliter */
+
+.carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+      width: 70%;
+      margin: auto;
+  }
+
+
+
+
+  .site-footer
+{
+  background-color:#000;
+  /*padding:10px 0 10px;*/
+  font-size:15px;
+ /* line-height:24px;*/
+  color:#fff;
+}
+
+
+.site-footer h6
+{
+    
+  color:#0D6903;
+  font-size:30px;
+  text-transform:uppercas;
+  margin-top:5px;
+  letter-spacing:2px;
+  text-decoration: underline;
+}
+.site-footer a
+{
+  color:#159d82;
+  text-decoration: none;
+}
+.site-footer a:hover
+{
+  color:#0D6903;
+  text-decoration:none;
+}
+
+
+.site-footer .social-icons
+{
+  text-align:right
+}
+.site-footer .social-icons a
+{
+  width:40px;
+  height:40px;
+  line-height:40px;
+  margin-left:6px;
+  margin-right:0;
+  border-radius:100%;
+  background-color:#0D6903;
+  color: #fff;
+}
+.copyright-text
+{
+  margin:0
+}
