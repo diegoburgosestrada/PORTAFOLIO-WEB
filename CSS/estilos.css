@@ -47,13 +47,6 @@ Estos son los estilos de la imagen de peril
 }
 
 
-
-
-
-
-
-
-
 /*Estos son los estilos de la foto de perfil*/
 #perfil img{
     border-radius: 50%;
@@ -98,16 +91,12 @@ p.ExperienciaL,h4{
 }
 
 
-
-
-
-
 /*Estos son los estilos del header*/
 header{
     background-color: #007bff;
     color: azure;
     padding: 20px;
-    border-radius: 10px;    
+        
 }
 
 
