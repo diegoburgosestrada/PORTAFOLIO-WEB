@@ -1,7 +1,4 @@
 /*Aqui son los estilos de todo el area de trabajo*/
-*{
-  
-}
 body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
@@ -11,8 +8,50 @@ body{
 
 
 
-/*
+.scrollToTop {
+  position: fixed;
+  bottom: 20px;
+  right: 30px;
+  display: none; /* Ocultar el botón por defecto */
+  padding: 10px 15px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+}
 
+.scrollToTop:hover {
+  background-color: #0056b3;
+}
+
+
+header {
+  background: #007bff;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}
+
+
+nav ul {
+  list-style: none;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin: 0 15px;
+}
+
+nav ul li a {
+  color: #fff;
+  text-decoration: none;
+}
+
+
+/*
 Estos son los estilos de la imagen de peril
 */
 
@@ -91,13 +130,13 @@ p.ExperienciaL,h4{
 }
 
 
-/*Estos son los estilos del header*/
+/*Estos son los estilos del header
 header{
     background-color: #007bff;
     color: azure;
     padding: 20px;
         
-}
+}*/
 
 
 /*Estos son los estilos del sliter */
