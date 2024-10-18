@@ -3,12 +3,12 @@ body {
     margin: 0;
     padding: 0;
     line-height: 1.6;
-    background-color:#cde6e9;
+    
 
 }
 
 header {
-    background: #cde6e9;
+    background-color:#d6eaf8 ;
     color: black;
     padding: 25%;
     text-align: center;
@@ -32,8 +32,7 @@ nav ul li a {
 
 section {
     padding: 28%;
-
-    background-color: rgba(151, 180, 246);
+    background-color: #eaf2f8 ;
     margin: 0;
     border: 1px solid #ddd;
     text-align: center;
@@ -46,12 +45,13 @@ section div div a{
     text-decoration: none;
 }
 
+
 footer {
     text-align: center;
-    padding: 15%;
-    background-color:#cde6e9;
+    background-color: #e8f8f5;
+    padding: 150px;
     color:black;
-    position: relative;
+    position: auto;
     bottom: 0;
     width: 100%;
 }
@@ -75,6 +75,11 @@ footer {
 {
   color:#2ec01e;
   text-decoration:none;
+}
+
+.copyright-text {
+    position: relative;
+    padding: 50px;
 }
 
 
