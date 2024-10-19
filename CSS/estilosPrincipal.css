@@ -21,8 +21,13 @@ nav ul {
 }
 
 nav ul li {
-    display: inline;
+    display: inline-block;
     margin: 0 15px;
+}
+
+.Explora a:hover{
+    color:#2ec01e;
+    text-decoration: none;
 }
 
 nav ul li a {
